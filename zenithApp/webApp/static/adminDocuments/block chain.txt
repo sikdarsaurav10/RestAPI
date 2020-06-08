@@ -1,0 +1,64 @@
+Everything sround us is a transactions
+these transactions are stored in ledger
+
+Ledgers can be offline or online tables in a database.
+Need of ledgers-
+-> Authencity of transaction
+-> Tracking of transaction
+-> Legal purposes like tax authorities
+-> Arbitration in case of dispute
+
+The ledgers are mainly maintained by some central authority
+Pitfalls of maintaining ledgers by a central authority-
+-> single point of failure
+-> chance of security breach
+-> Loss due to natural disaster
+-> Possibility of Manipulation
+-> arbitary levy of service charges
+-> Bureaucratic/Permission based access
+
+So, blockchain is basically used to overcome these pitfalls-
+-> peer to peer transactions
+-> high security
+-> no central authority
+and many more
+
+Blockchain was initally developed as framework for maintaining bitcoin transactions
+it is a distributed framework
+
+A block contains basically data, hash and prv hash.
+A chain connects multiple blocks
+The first block is called genesis block
+
+The hash is a one way algorithm that means it cannot be decoded and it is done using a hash function
+it constantly checks the hash of the current block and the prv hash in the next block to check for manipulation of the encrypted data.
+
+It uses census(people/nodes vote for the happening of transaction)
+in bitcoin it uses proof of stake and only one person gets the incentive.(51% nodes vote requird and a mathematical problem is given for the acquirment of the incentive)
+
+CHARACTERTICS :-
+Blockchain is immutable
+It is provenance(history of all transactions)
+It provides single source of truth(It has the same copy of the ledger)
+It has standardization(eveyone uses the same standard of blockchain)
+Highest security
+It has a concept of smart contract(It is both automated and enforceable/verifies the person's detail)
+
+BLOCKCHAIN TYPES:-
+-> Public
+-> Private/enterprise
+
+on private blockchain the broadcast is limited to the parties that are involved
+and some people are nominated for the voting
+
+Applications:-
+-> agriculture fields(track where the crop actually came from)
+-> walmart uses
+-> health fields
+
+What actually blackchain can do in real life:-
+-> Emergence of token economy
+-> Elimination of middle man
+-> Trust and Transparency
+-> Democratization
+
